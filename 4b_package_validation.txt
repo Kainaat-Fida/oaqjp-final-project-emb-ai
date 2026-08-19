@@ -1,0 +1,4 @@
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> print(emotion_detector)
+<function emotion_detector at 0x000002A52949D120>
+>>>
